@@ -1,0 +1,1 @@
+!python dualrnn_test_wav.py -mix_scp ./testwav/mix1_8k.wav -yaml config/Dual_RNN/train_rnn.yml -model saved_models/best.pt -save_path demo_output
